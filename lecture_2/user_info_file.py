@@ -10,7 +10,7 @@ def generate_profile(age):
 
 # We collect user data
 user_name = input("Enter your full name: ")
-birth_year_str = input("Enter your birth year: ")
+birth_year_str = input("Enter your birtexeh year: ")
 birth_year = int(birth_year_str)
 current_age = 2025 - birth_year
 
